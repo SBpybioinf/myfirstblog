@@ -25,7 +25,7 @@ SECRET_KEY = 'l-(joy26rsi^h3v9rmjafuffhd@f2_-&ak)jq!4$wx$a6+sf6x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["sbpybioinf.pythonanywhere.com", "localhost"]
+ALLOWED_HOSTS = ["sbpybioinf.pythonanywhere.com", "127.0.0.1"]
 
 
 # Application definition
